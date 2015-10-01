@@ -1,0 +1,40 @@
+body {
+  background: #334e57; }
+
+.box {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  border-radius: 50px;
+  width: 200px;
+  height: 200px;
+  background-color: blue; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+nav li {
+  display: inline-block;
+  padding-left: 150px;
+  font-size: 25px; }
+
+.message, .success, .error, .warning {
+  border: 10px solid #ccc;
+  padding: 50px;
+  color: #333; }
+
+.success {
+  border-color: green; }
+
+.error {
+  border-color: red; }
+
+.warning {
+  border-color: yellow; }
+
+body {
+  background-color: white; }
+
+/*# sourceMappingURL=main.css.map */
